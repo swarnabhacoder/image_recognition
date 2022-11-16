@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    background-color:pink;
+}
+.text{
+    text-align:left;
+    padding-left:100px;
+    background-color:rgb(51, 175, 247);
+    color:white;
+    font-size:30px;
+    font-weight:bold;
+    line-height:50px;
+    border-radius:20px;
+}
+
+#camera{
+    width:50%;
+    height:50%;
+    border:5px solid red;
+}
+#captured_image{
+    width:50%;
+    height:50%;
+    border:5px ridge blue;
+}
